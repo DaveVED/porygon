@@ -1,11 +1,11 @@
 <div align="center">
 
 # Porygon
-##### Fight, Lightweight and Secure datastore for content management systems.
+##### Fast, Lightweight and Secure datastore for content management systems.
 
 [![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](http://www.go.dev)
 
-<img alt="Harpoon Man" height="280" src="/assets/test222.png" />
+<img alt="Porygon Transparent" height="280" src="/assets/porygon-transparent.png" />
 
 </div>
 
