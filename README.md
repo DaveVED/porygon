@@ -5,7 +5,7 @@
 
 [![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](http://www.go.dev)
 
-<img alt="Porygon Transparent" height="280" src="/assets/porygon-transparent.png" />
+<img alt="Porygon Transparent" height="280" src="/assets/porygon-fun.jpg" />
 
 </div>
 
