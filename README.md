@@ -3,7 +3,7 @@
 # Porygon
 ##### Fight, Lightweight and Secure datastore for content management systems.
 
-[![Lua](https://img.shields.io/badge/Go-blue.svg?style=for-the-badge&logo=lua)](http://www.lua.org)
+[![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](http://www.go.dev)
 
 </div>
 
